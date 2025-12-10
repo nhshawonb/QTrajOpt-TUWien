@@ -1,0 +1,6 @@
+Metric,Value
+Dataset Size,"1,000"
+Q-Table Size,3
+Features Used,6
+Performance Gain,20.0%
+Algorithm,Q-Learning
